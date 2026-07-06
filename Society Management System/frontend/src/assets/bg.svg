@@ -1,0 +1,27 @@
+<svg width="88" height="88" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="12" y="2" width="64" height="64" rx="16" fill="#FF6B00"/>
+<g filter="url(#filter0_dd_112_11)">
+<rect x="12" y="2" width="64" height="64" rx="16" fill="white" fill-opacity="0.01" shape-rendering="crispEdges"/>
+</g>
+<path d="M29 47.5V20.5H44V26.5H59V47.5H29ZM32 44.5H35V41.5H32V44.5ZM32 38.5H35V35.5H32V38.5ZM32 32.5H35V29.5H32V32.5ZM32 26.5H35V23.5H32V26.5ZM38 44.5H41V41.5H38V44.5ZM38 38.5H41V35.5H38V38.5ZM38 32.5H41V29.5H38V32.5ZM38 26.5H41V23.5H38V26.5ZM44 44.5H56V29.5H44V32.5H47V35.5H44V38.5H47V41.5H44V44.5ZM50 35.5V32.5H53V35.5H50ZM50 41.5V38.5H53V41.5H50Z" fill="white"/>
+<defs>
+<filter id="filter0_dd_112_11" x="0" y="0" width="88" height="88" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="4" operator="erode" in="SourceAlpha" result="effect1_dropShadow_112_11"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="3"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_112_11"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="3" operator="erode" in="SourceAlpha" result="effect2_dropShadow_112_11"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_112_11" result="effect2_dropShadow_112_11"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_112_11" result="shape"/>
+</filter>
+</defs>
+</svg>
